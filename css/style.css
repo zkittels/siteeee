@@ -1,0 +1,756 @@
+.glava {
+    position: absolute;
+    width: 1920px;
+    height: 1000px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(.jpg);
+}
+
+.tennis {
+    position: absolute;
+    width: 153px;
+    height: 46px;
+    left: 312px;
+    top: 30px;
+}
+
+.tennis-2 {
+    position: absolute;
+    width: 1920px;
+    height: 1000px;
+    left: 0px;
+    top: 0px;
+    
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(.jpg);
+}
+
+.glavnya {
+    width: 53px;
+    height: 20px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.club {
+    width: 53px;
+    height: 20px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    color: #FFFFFF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.tyr { 
+    width: 57px;
+    height: 20px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    color: #FFFFFF;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+
+.usl {
+    width: 44px;
+    height: 20px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    color: #FFFFFF;
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+}
+
+.chil { 
+    width: 103px;
+    height: 20px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    color: #FFFFFF;
+    flex: none;
+    order: 4;
+    flex-grow: 0;
+}
+
+.gallery{
+    width: 55px;
+    height: 20px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    color: #FFFFFF;
+    flex: none;
+    order: 5;
+    flex-grow: 0;
+}
+
+.cen {
+    width: 35px;
+    height: 20px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    color: #FFFFFF; 
+    flex: none;
+    order: 6;
+    flex-grow: 0;
+}
+
+.con { 
+    width: 62px;
+    height: 20px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    color: #FFFFFF;
+    flex: none;
+    order: 7;
+    flex-grow: 0;
+}
+
+.usluga {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 40px;
+    
+    position: absolute;
+    width: 742px;
+    height: 20px;
+    left: 589px;
+    top: 43px;
+    
+}
+
+.Frame2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0px;
+    gap: 20px;
+    
+    position: absolute;
+    width: 92px;
+    height: 36px;
+    right: 312px;
+    top: 50px;
+}
+
+.Zagolovok {
+    position: absolute;
+    width: 636px;
+    height: 201px;
+    left: 312px;
+    top: 306px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
+
+.Frame3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 30px;
+    position: absolute;
+    width: 268px;
+    height: 80px;
+    left: 312px;
+    top: 600px;
+}
+
+.arenda{
+    position: absolute;
+    width: 315px;
+    height: 151px;
+    left: 312px;
+    top: 849px;
+    background: #8D86C9;
+}
+
+.uslugf{
+    position: absolute;
+    width: 56px;
+    height: 25px;
+    left: 40px;
+    top: 10px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
+
+.cort{
+    position: absolute;
+    width: 160px;
+    height: 34px;
+    left: 35px;
+    top: 50px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
+
+.ci{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 250px;
+    top: 60px;
+}
+
+.arenda2{
+    position: absolute;
+    width: 315px;
+    height: 151px;
+    left: 639px;
+    top: 849px; 
+    background: #8D86C9;
+}
+
+.arenda3{
+    position: absolute;
+    width: 315px;
+    height: 151px;
+    left: 966px;
+    top: 849px;
+    background: #8D86C9;
+}
+
+.arenda4{
+    position: absolute;
+    width: 315px;
+    height: 151px;
+    left: 1293px;
+    top: 849px;
+    background: #8D86C9;
+}
+
+.advantages{
+    position: absolute;
+    width: 1296px;
+    height: 500px;
+    left: 0px;
+    top: 0px;    
+}
+
+.five{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 416px;
+    height: 500px;
+    left: 312px;
+    top: 1150px;
+    border: 1px solid #F7ECE1;
+}
+
+.r39{
+    position: absolute;
+    width: 376px;
+    height: 450px;
+    left: 20px;
+    top: 20px;
+    
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(.jpg);
+}
+
+.grynt{
+    position: absolute;
+    width: 376px;
+    height: 76px;
+    left: 20px;
+    top: 350px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.zal{
+    box-sizing: border-box;
+    position: absolute;
+    width: 416px;
+    height: 500px;
+    left: 752px;
+    top: 1150px;
+    border: 1px solid #F7ECE1;
+}
+
+.hard{
+    box-sizing: border-box;
+    position: absolute;
+    width: 416px;
+    height: 500px;
+    left: 1192px;
+    top: 1150px;
+    border: 1px solid #F7ECE1;
+}
+
+.about{
+    position: absolute;
+    width: 1076px;
+    height: 654px;
+    left: 422px;
+    top: 1800px;
+}
+
+.text{
+    position: absolute;
+    width: 636px;
+    height: 654px;
+    left: 400px;
+    top: 0px;
+    background: #F7ECE1;
+}
+
+.sport{
+    position: absolute;
+    width: 430px;
+    height: 50px;
+    left: 150px;
+    top: 50px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 140%;
+    color: #333333;
+}
+
+.text-1{
+    position: absolute;
+    width: 430px;
+    height: 134px;
+    left: 150px;
+    top: 150px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    color: #333333;
+}
+
+.text-2{
+    position: absolute;
+    width: 430px;
+    height: 29px;
+    left: 150px;
+    top: 300px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 140%;
+    color: #333333;
+}
+
+.text-3{
+    position: absolute;
+    width: 400px;
+    height: 202px;
+    left: 200px;
+    top: 400px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    color: #333333;
+}
+
+.r45{
+    position: absolute;
+    width: 526px;
+    height: 514px;
+    left: 0px;
+    top: 100px;
+    background: url(.jpg);
+}
+
+.trainers{
+    position: absolute;
+    width: 1296px;
+    height: 523px;
+    left: 250px;
+    top: 2604px;
+}
+
+.sostav{
+    position: absolute;
+    width: 330px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 140%;
+    color: #333333;
+}
+
+.g9{
+    position: absolute;
+    width: 105px;
+    height: 45px;
+    left: 1200px;
+    top: 40px;
+}
+
+.avatar{
+    box-sizing: border-box;
+    position: absolute;
+    width: 196px;
+    height: 240px;
+    left: 0px;
+    top: 200px;
+    border: 1px solid #F7ECE1;
+}
+
+.r394{
+    position: absolute;
+    width: 166px;
+    height: 240px;
+    left: 15px;
+    top: 0px;
+    background: url(.jpg);
+}
+
+.name{
+    position: absolute;
+    width: 196px;
+    height: 58px;
+    left: 0px;
+    top: 230px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 140%;
+    text-align: center;
+    color: #333333;
+}
+
+.status{
+    position: absolute;
+    width: 196px;
+    height: 40px;
+    left: 0px;
+    top: 280px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: center;
+    color: #333333;
+}
+
+.avatar2{
+    box-sizing: border-box;
+    position: absolute;
+    width: 196px;
+    height: 240px;
+    left: 230px;
+    top: 200px;
+    border: 1px solid #F7ECE1;
+}
+
+.avatar3{
+    box-sizing: border-box;
+    position: absolute;
+    width: 196px;
+    height: 240px;
+    left: 460px;
+    top: 200px;
+    border: 1px solid #F7ECE1;
+}
+
+.avatar4{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 196px;
+    height: 240px;
+    left: 690px;
+    top: 200px;
+    border: 1px solid #F7ECE1;
+}
+
+.avatar5{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 196px;
+    height: 240px;
+    left: 920px;
+    top: 200px;
+    border: 1px solid #F7ECE1;
+}
+
+.avatar6{
+    box-sizing: border-box;
+    position: absolute;
+    width: 196px;
+    height: 240px;
+    left: 1150px;
+    top: 200px;
+    border: 1px solid #F7ECE1;
+}
+
+.price{
+    position: absolute;
+    width: 526px;
+    height: 455px;
+    left: 250px;
+    top: 3277px;
+}
+
+.say{
+    position: absolute;
+    width: 344px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 140%;
+    color: #333333;
+}
+
+.uslfa{
+    position: absolute;
+    width: 112px;
+    height: 50px;
+    left: 600px;
+    top: 0px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 140%;
+    color: #333333;
+}
+
+.g10{
+    position: absolute;
+    width: 105px;
+    height: 45px;
+    left: 1200px;
+    top: 50px;
+    
+}
+
+.f4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    gap: 10px;
+    position: absolute;
+    width: 526px;
+    height: 60px;
+    left: -30px;
+    top: 150px;
+}
+
+.f5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 526px;
+    height: 60px;
+    left: -30px;
+    top: 250px;
+}
+
+.f6{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    gap: 10px;
+    position: absolute;
+    width: 526px;
+    height: 60px;
+    left: -30px;
+    top: 350px;
+}
+
+
+.f7{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    gap: 10px;
+    position: absolute;
+    width: 526px;
+    height: 60px;
+    left: -30px;
+    top: 450px;
+}
+
+.coffee{
+    box-sizing: border-box;
+    position: absolute;
+    width: 636px;
+    height: 330px;
+    left: 650px;
+    top: 190px;
+    border: 1px solid #F7ECE1;
+}
+
+.coffs{
+    position: absolute;
+    width: 586px;
+    height: 270px;
+    left: 25px;
+    top: 25px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(.jpg);
+}
+
+.ytro{
+    position: absolute;
+    width: 167px;
+    height: 38px;
+    left: 50px;
+    top: 200px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
+
+.end{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 420%;
+    bottom: 0%;
+}
+
+.prava{
+    position: absolute;
+    left: 16.25%;
+    right: 73.49%;
+    top: 60.58%;
+    bottom: 39.58%;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    color: #333333;
+    opacity: 0.3;
+}
+
+.usd{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 40px;
+    position: absolute;
+    left: 31.93%;
+    right: 29.43%;
+    top: 30.58%;
+    bottom: 39.58%;
+}
+
+.glavnya2{
+    width: 53px;
+    height: 20px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    color: #333333;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.soc{
+    position: absolute;
+    left: 76.15%;
+    right: 21.98%;
+    top: 25.25%;
+    bottom: 31.25%;
+}
+
+.soc2{
+    position: absolute;
+    left: 79.01%;
+    right: 19.11%;
+    top: 31.25%;
+    bottom: 31.25%;
+}
+
+.soc3{
+    position: absolute;
+    left: 81.88%;
+    right: 16.25%;
+    top: 31.25%;
+    bottom: 31.25%;
+}
